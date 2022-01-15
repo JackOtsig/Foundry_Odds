@@ -1,0 +1,150 @@
+{
+    "RUNE": {
+        "value": 20,
+        "warrior": {
+            "2H_HAMMER_UNDEAD": 3036,
+            "2H_REPEATINGCROSSBOW_UNDEAD": 1016,
+            "MAIN_ROCKMACE_KEEPER": 405,
+            "MAIN_SCIMITAR_MORGANA": 2897,
+            "2H_HALBERD_MORGANA": 237,
+            "NONE": 739,
+            "ARMOR_PLATE_UNDEAD": 620,
+            "HEAD_PLATE_UNDEAD": 2298,
+            "SHOES_PLATE_UNDEAD": 2500,
+            "OFF_TOWERSHIELD_UNDEAD": 402
+        },
+        "mage": {
+            "MAIN_ARCANESTAFF_UNDEAD": 233,
+            "MAIN_CURSEDSTAFF_UNDEAD": 3195,
+            "MAIN_FIRESTAFF_KEEPER": 4485,
+            "MAIN_FROSTSTAFF_KEEPER": 242,
+            "MAIN_HOLYSTAFF_MORGANA": 238,
+            "ARMOR_CLOTH_KEEPER": 2528,
+            "HEAD_CLOTH_KEEPER": 845,
+            "SHOES_CLOTH_KEEPER": 722,
+            "OFF_ORB_MORGANA": 464
+        },
+        "hunter": {
+            "MAIN_SPEAR_KEEPER": 291,
+            "MAIN_RAPIER_MORGANA": 10548,
+            "2H_LONGBOW_UNDEAD": 271,
+            "2H_COMBATSTAFF_MORGANA": 228,
+            "ARMOR_LEATHER_MORGANA": 440,
+            "HEAD_LEATHER_MORGANA": 2699,
+            "SHOES_LEATHER_MORGANA": 349,
+            "OFF_HORN_KEEPER": 7897,
+            "MAIN_NATURESTAFF_KEEPER": 2999
+        }
+    },
+    "SOUL": {
+        "value": 179,
+        "warrior": {
+            "MAIN_NATURESTAFF_KEEPER": 2999,
+            "2H_DUALCROSSBOW_HELL": 5242,
+            "2H_DUALHAMMER_HELL": 1936,
+            "2H_SCYTHE": 2346,
+            "MAIN_MACE_HELL": 2013,
+            "NONE": 2092,
+            "OFF_SHIELD_HELL": 2142,
+            "ARMOR_PLATE_HELL": 4298,
+            "HEAD_PLATE_HELL": 3950,
+            "SHOES_PLATE_HELL": 6459
+        },
+        "mage": {
+            "2H_ARCANESTAFF_HELL": 2115,
+            "2H_FIRESTAFF_HELL": 2230,
+            "NONE": 5529,
+            "2H_HOLYSTAFF_HELL": 12996,
+            "2H_SKULLORB_HELL": 2569,
+            "OFF_DEMONSKULL_HELL": 42216,
+            "ARMOR_CLOTH_HELL": 6529,
+            "HEAD_CLOTH_HELL": 54997,
+            "SHOES_CLOTH_HELL": 2146
+        },
+        "hunter": {
+            "2H_BOW_HELL": 3849,
+            "2H_HARPOON_HELL": 3707,
+            "NONE": 1844,
+            "2H_NATURESTAFF_HELL": 5342,
+            "2H_TWINSCYTHE_HELL": 1920,
+            "OFF_JESTERCANE_HELL": 3628,
+            "ARMOR_LEATHER_HELL": 91000,
+            "HEAD_LEATHER_HELL": 5888,
+            "SHOES_LEATHER_HELL": 5590
+        }
+    },
+    "RELIC": {
+        "value": 688,
+        "warrior": {
+            "2H_DUALSCIMITAR_UNDEAD": 8870,
+            "2H_DUALAXE_KEEPER": 73540,
+            "2H_RAM_KEEPER": 30360,
+            "2H_CROSSBOWLARGE_MORGANA": 7849,
+            "2H_MACE_MORGANA": 45490,
+            "NONE": 22283,
+            "OFF_SPIKEDSHIELD_MORGANA": 67800,
+            "HEAD_PLATE_KEEPER": 33603,
+            "ARMOR_PLATE_KEEPER": 134000,
+            "SHOES_PLATE_KEEPER": 7959
+        },
+        "mage": {
+            "2H_ICECRYSTAL_UNDEAD": 37455,
+            "NONE": 10540,
+            "2H_CURSEDSTAFF_MORGANA": 7999,
+            "2H_ENIGMATICORB_MORGANA": 7866,
+            "2H_INFERNOSTAFF_MORGANA": 19393,
+            "OFF_TOTEM_KEEPER": 153000,
+            "HEAD_CLOTH_MORGANA": 18650,
+            "ARMOR_CLOTH_MORGANA": 38057,
+            "SHOES_CLOTH_MORGANA": 37123
+        },
+        "hunter": {
+            "2H_BOW_KEEPER": 55300,
+            "2H_ROCKSTAFF_KEEPER": 7588,
+            "2H_DUALSICKLE_UNDEAD": 48990,
+            "2H_TRIDENT_UNDEAD": 12416,
+            "2H_NATURESTAFF_KEEPER": 12838,
+            "OFF_LAMP_UNDEAD": 49580,
+            "HEAD_LEATHER_UNDEAD": 123000,
+            "ARMOR_LEATHER_UNDEAD": 9256,
+            "SHOES_LEATHER_UNDEAD": 34053
+        }
+    },
+    "SHARD_AVALONIAN": {
+        "value": 450,
+        "warrior": {
+            "ARMOR_PLATE_AVALON": 50948,
+            "HEAD_PLATE_AVALON": 20875,
+            "SHOES_PLATE_AVALON": 5512,
+            "2H_AXE_AVALON": 54024,
+            "2H_CLAYMORE_AVALON": 16805,
+            "2H_HAMMER_AVALON": 8733,
+            "2H_DUALMACE_AVALON": 7954,
+            "NONE": 43844,
+            "2H_CROSSBOW_CANNON_AVALON": 16900,
+            "OFF_SHIELD_AVALON": 15374
+        },
+        "mage": {
+            "ARMOR_CLOTH_AVALON": 149878,
+            "HEAD_CLOTH_AVALON": 24994,
+            "SHOES_CLOTH_AVALON": 13660,
+            "MAIN_CURSEDSTAFF_AVALON": 8999,
+            "2H_FIRE_RINGPAIR_AVALON": 5857,
+            "T4_MAIN_FROSTSTAFF_AVALON": 5968,
+            "2H_ARCANE_RINGPAIR_AVALON": 5056,
+            "MAIN_HOLYSTAFF_AVALON": 56679,
+            "OFF_CENSER_AVALON": 10016
+        },
+        "hunter": {
+            "ARMOR_LEATHER_AVALON": 13487,
+            "HEAD_LEATHER_AVALON": 25743,
+            "SHOES_LEATHER_AVALON": 210000,
+            "2H_DAGGER_KATAR_AVALON": 43595,
+            "MAIN_SPEAR_LANCE_AVALON": 6854,
+            "2H_QUARTERSTAFF_AVALON": 79811,
+            "2H_BOW_AVALON": 29732,
+            "MAIN_NATURESTAFF_AVALON": 5693,
+            "OFF_TALISMAN_AVALON": 6520
+        }
+    }
+}
